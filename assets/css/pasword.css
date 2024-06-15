@@ -31,3 +31,8 @@ h2{
     border-radius: 100vh;
     margin: 20px;
 }
+a{
+    font-size: 20px;
+    color: white;
+    margin: 10px;
+}
